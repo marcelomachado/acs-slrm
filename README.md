@@ -10,4 +10,14 @@ The presentation of learning materials in a sequence, which considers the associ
 
 ```bibtex
 
+@article{machado2020metaheuristic,
+  title = {Metaheuristic-based adaptive curriculum sequencing approaches: a systematic review and mapping of the literature},
+  issn = {1573-7462},
+  url = {https://doi.org/10.1007/s10462-020-09864-z},
+  doi = {10.1007/s10462-020-09864-z},
+  journal = {Artificial Intelligence Review},
+  author = {Machado, Marcelo Oliveira Costa and Bravo, Natalie Ferraz Silva and Martins, André Ferreira and Bernardino, Heder Soares and Barrere, Eduardo and Souza, Jairo Francisco},
+  month = jun,
+  year = {2020}
+}
 ```
