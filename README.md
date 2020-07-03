@@ -17,7 +17,9 @@ The presentation of learning materials in a sequence, which considers the associ
   doi = {10.1007/s10462-020-09864-z},
   journal = {Artificial Intelligence Review},
   author = {Machado, Marcelo Oliveira Costa and Bravo, Natalie Ferraz Silva and Martins, André Ferreira and Bernardino, Heder Soares and Barrere, Eduardo and Souza, Jairo Francisco},
+  pages={1--44},
   month = jun,
-  year = {2020}
+  year = {2020},
+  publisher={Springer}
 }
 ```
